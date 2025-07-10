@@ -1,9 +1,12 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dependencies": {
     "-": "^0.0.1",
     "express": "^5.1.0",
 =======
+=======
+>>>>>>> 16c864305f52644fea046abd7f307eaee6fa1b8a
   "name": "183309072025",
   "version": "1.0.0",
   "description": "REGISTER route\r LOGIN route\r CRUD \"/blogs\" routes",
@@ -26,6 +29,9 @@
     "express": "^5.1.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
+>>>>>>> 16c864305f52644fea046abd7f307eaee6fa1b8a
+=======
 >>>>>>> 16c864305f52644fea046abd7f307eaee6fa1b8a
     "nodemon": "^3.1.10"
   }
