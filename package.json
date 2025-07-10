@@ -1,0 +1,32 @@
+{
+<<<<<<< HEAD
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^5.1.0",
+=======
+  "name": "183309072025",
+  "version": "1.0.0",
+  "description": "REGISTER route\r LOGIN route\r CRUD \"/blogs\" routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notgnirrac/183309072025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notgnirrac/183309072025/issues"
+  },
+  "homepage": "https://github.com/notgnirrac/183309072025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+>>>>>>> 16c864305f52644fea046abd7f307eaee6fa1b8a
+    "nodemon": "^3.1.10"
+  }
+}
